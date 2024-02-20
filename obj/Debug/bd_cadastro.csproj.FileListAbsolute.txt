@@ -1,0 +1,10 @@
+C:\Users\lucas.aasilva4\source\repos\bd_cadastro\bin\Debug\bd_cadastro.exe.config
+C:\Users\lucas.aasilva4\source\repos\bd_cadastro\bin\Debug\bd_cadastro.exe
+C:\Users\lucas.aasilva4\source\repos\bd_cadastro\bin\Debug\bd_cadastro.pdb
+C:\Users\lucas.aasilva4\source\repos\bd_cadastro\obj\Debug\bd_cadastro.csproj.AssemblyReference.cache
+C:\Users\lucas.aasilva4\source\repos\bd_cadastro\obj\Debug\bd_cadastro.bd_cadastro.resources
+C:\Users\lucas.aasilva4\source\repos\bd_cadastro\obj\Debug\bd_cadastro.Properties.Resources.resources
+C:\Users\lucas.aasilva4\source\repos\bd_cadastro\obj\Debug\bd_cadastro.csproj.GenerateResource.cache
+C:\Users\lucas.aasilva4\source\repos\bd_cadastro\obj\Debug\bd_cadastro.csproj.CoreCompileInputs.cache
+C:\Users\lucas.aasilva4\source\repos\bd_cadastro\obj\Debug\bd_cadastro.exe
+C:\Users\lucas.aasilva4\source\repos\bd_cadastro\obj\Debug\bd_cadastro.pdb
